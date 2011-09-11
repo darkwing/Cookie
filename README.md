@@ -1,0 +1,1 @@
+This tiny module keeps the legacy Cookie class, porting to AMD format.
